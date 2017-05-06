@@ -36,5 +36,4 @@ Apply your machine learning algorithm to the 20 test cases available in the test
 Due to security concerns with the exchange of R code, your code will not be run during the evaluation by your classmates. Please be sure that if they download the repo, they will be able to view the compiled HTML version of your analysis.
 
 # My Assingment In HTML 
-
-https://htmlpreview.github.io/?https://github.com/thequantumtheories/Programming-Assignment3/blob/master/Practice%20Machine%20learning%20project.html  
+https://htmlpreview.github.io/?https://github.com/thequantumtheories/Assignment/blob/master/Practical%20Machine%20learning%20project.html
